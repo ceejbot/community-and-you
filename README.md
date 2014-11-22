@@ -1,4 +1,9 @@
-community-and-you
-=================
+# The node community and you
 
-proposal for a talk for node one-shot oakland
+A talk for node one-shot Oakland.
+
+* [slide source](community.md)
+
+## Credits
+
+Image credits will go here once I have slides.

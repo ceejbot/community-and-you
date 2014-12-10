@@ -1,18 +1,23 @@
 
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-5.jpg)
+
 # [fit] The node community
 # [fit] and you
 
 ---
 
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-5.jpg)
+
 # [fit] Why are you here?
 
-^ If you answer "to learn more about node", that's great. But it's not everything you could get from today & the next two days.
+^ If you answer "to learn more about node", that's great. But it's not everything you could get from jsfest. hope to convince you.
 
 ---
 
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-5.jpg)
 # [fit] Why am I here?
 
-^ I'm going to tell you a story about me and the node community.
+^ I'm going to tell you why I'm here by telling you a story about me and the node community.
 
 ---
 
@@ -28,7 +33,7 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-3.jpg)
 
-^ I've been writing software professionally a long time. I first got paid for it in 1996. I didn't join or participate in any communities AT ALL until I started noding.
+^ I've been writing software professionally a long time. I first got paid for it in 1996. I didn't join or participate in any communities AT ALL until I started noding. Found node via async.
 
 ---
 
@@ -36,7 +41,7 @@
 
 # [fit] I published a package.
 
-^ This is safest possible way to be part of the node community. Never done it before for any lang. Nobody had to know who I was. Nobody had to know I was a woman.
+^ This is safest possible way to be part of the node community. Nobody had to know who I was. Nobody had to know I was a woman. Never done it before for any lang.
 
 ---
 
@@ -60,6 +65,15 @@
 
 ^ I made myself vulnerable by putting a little of myself out there in public. Any participation in a community requires this.
 
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-fish.jpg)
+
+# [fit] Vulnerability
+# [fit] participation has risks
+
+^ This was it for me for a long time. I did some more modules.
+
 ----
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
@@ -72,7 +86,7 @@
 
 # [fit] I went to nodeconf 2013.
 
-^ This was my first nodeconf & tho I was on my 2nd node job by then,
+^ This was my first nodeconf & tho I was on my 2nd node job by then, I knew nobody.
 
 ---
 
@@ -92,21 +106,23 @@
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-1.jpg)
 
 # [fit] I met people like Bryce
-# [fit] & Max & Rod & jden &…
+# [fit] & Max O & Rod V & jden &…
 
----
-
-![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-1.jpg)
-
-# [fit] and you.
-# [fit] (if I haven't met you yet,
-# [fit] introduce yourself later)
+^ These are people who took the time to talk to me. I'm grateful to all of you. Bryce also knew nobody! He told me so.
 
 ----
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-pot.jpg)
 
 ^ I saw an amazing live-coding demo by Dominic Tarr & Raynos. I went home and I wrote three modules & published them to npm.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-pot.jpg)
+
+# [fit] inspiration!
+
+^ This is awesome! I hope you're all going to go home & monkey patch the hell out of something inappropriate.
 
 ---
 
@@ -120,20 +136,57 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-pot.jpg)
 
-# [fit] your mad science inspiration
-# [fit] is in this room
+# [fit] @dominictarr
+# [fit] has no idea that he's my
+# [fit] mad science inspiration
+
+^ he doesn't need to have any idea. he just talks about what he's into.
 
 ---
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-pot.jpg)
 
+# [fit] your mad science inspiration
+# [fit] is in this room
+
+^ Your inspiration might be nodebotanist or rockbot or even me.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-3.jpg)
+
 # [fit] you might be somebody's
 # [fit] mad science inspiration
 
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-1.jpg)
+
+# [fit] Rick Waldron
+# [fit] who gave me a gentle shove
+
+^ also at nodeconf 2013 I also met Rick Waldron who volunteered me to talk about robots at Cascadia.js.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-1.jpg)
+
+# [fit] Public speaking
+# [fit] woah
+
+^ I had literally never done that before. I am standing up here today because Rick met me at nodeconf 2013 in his robots session & thought I could do a good job explaining nodebots.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-1.jpg)
+# [fit] eventually I got a really
+# [fit] great job at npm
 
 ---
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-cats.jpg)
+
+^ Why did all this happen to me? Am I special? No.
 
 ---
 
@@ -146,21 +199,69 @@
 
 ---
 
-![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-4.jpg)
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-cats.jpg)
 
-Sproing
+# [fit] the way the world works
+# [fit] is not a secret
 
-
+^ social connections are useful in moving around in the industry.
 
 ---
 
-![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-3.jpg)
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-4.jpg)
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-4.jpg)
+
+# [fit] I took risks
+
+^ Every single one of these opportunities required me taking a risk, trying something I'd never done before, making myself vulnerable. I had to reach out.
+
+----
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
+
+^ The flip side. None of this comes for free.
+
+----
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
 
 # [fit] Responsibility
 
----
+^ Every one of the opportunities I took advantage of comes with responsibilities. Working at npm is the biggest responsibility of them all because I hold the heart of the community in my dev/ops hands.
 
 ---
 
-social connections are useful in moving around in the industry
-(this is a purely selfish choice)
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
+
+# [fit] you are already part of
+# [fit] the node community.
+
+^ You're present at a tiny conference. You could know everybody in this room. Do you? I don't.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
+
+# [fit] Encourage someone
+
+^ Be somebody's inspiration. Listen to somebody. Be kind in your github conversations. Share your code when you can. Mentor a nodeschool. Talk at a conference. Encourage somebody.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
+
+# [fit] Let yourself be encouraged
+
+^ Take a risk. When somebody offers you an opportunity to share, take it.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
+
+# [fit] It'll be better than okay.
+# [fit] It'll be great.
+
+^ It'll be okay. The fact that I'm standing here in front of you is an existence proof that it can do AMAZING things for you.

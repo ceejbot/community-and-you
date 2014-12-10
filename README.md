@@ -7,3 +7,5 @@ A talk for node one-shot Oakland.
 ## Credits
 
 Image credits will go here once I have slides.
+
+There are a whole lot of photos of Tashirojima island & its cats.

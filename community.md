@@ -17,7 +17,7 @@
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-5.jpg)
 # [fit] Why am I here?
 
-^ I'm going to tell you why I'm here by telling you a story about me and the node community.
+^ I get something from you that I can't get anywhere else. I'm going to tell you why I'm here by telling you a story about me and the node community.
 
 ---
 
@@ -39,7 +39,8 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-3.jpg)
 
-# [fit] I published a package.
+# [fit] I published a
+# [fit] package on npm
 
 ^ This is safest possible way to be part of the node community. Nobody had to know who I was. Nobody had to know I was a woman. Never done it before for any lang.
 
@@ -69,16 +70,15 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-fish.jpg)
 
-# [fit] Vulnerability
-# [fit] participation has risks
+# [fit] participation entails risk
 
-^ You've done this just by showing up here.
+^ Humans are spiky and dangerous. Except... they're not. This community is not. This community welcomed me.
 
 ----
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
 
-^ This was it for me for a long time. I did some more modules. I got a node job. I met a few people.s
+^ This was it for me for a long time. I did some more modules. I got a node job. I met a few people.
 
 ---
 
@@ -101,6 +101,8 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-1.jpg)
 
+^ That sounds sort of depressing, right? But it wasn't. Nodeconf 2013 was an amazing experience for me. I was part of the very first nodeschool experience, the stream adventure.
+
 ---
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-1.jpg)
@@ -108,7 +110,7 @@
 # [fit] I met people like Bryce
 # [fit] & Max O & Rod V & jden &…
 
-^ These are people who took the time to talk to me. I'm grateful to all of you. Bryce also knew nobody! He told me so.
+^ These are people who took the time to talk to me. I'm grateful to all of you. Bryce also knew nobody! He told me so. Rod Vagg sought me out, because he'd noticed I'd written levelup modules & wanted to talk to me about levelup.
 
 ----
 
@@ -269,7 +271,8 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
 
-# [fit] Let yourself be encouraged
+# [fit] Let yourself be
+# [fit] encouraged
 
 ^ Take a risk. When somebody offers you an opportunity to share, take it.
 
@@ -280,4 +283,4 @@
 # [fit] It'll be better than okay.
 # [fit] It'll be great.
 
-^ It'll be okay. The fact that I'm standing here in front of you is an existence proof that it can do AMAZING things for you.
+^ This community is welcoming. The fact that I'm standing here in front of you is an existence proof that it can do AMAZING things for you. I want to see you here next year.

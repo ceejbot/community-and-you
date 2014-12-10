@@ -10,7 +10,7 @@
 
 # [fit] Why are you here?
 
-^ If you answer "to learn more about node", that's great. But it's not everything you could get from jsfest. hope to convince you.
+^ If you answer "to learn more about node", that's great. But it's not everything you could get from jsfest. Attendance is not sufficient.
 
 ---
 
@@ -33,7 +33,7 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-3.jpg)
 
-^ I've been writing software professionally a long time. I first got paid for it in 1996. I didn't join or participate in any communities AT ALL until I started noding. Found node via async.
+^ I've been writing software professionally a long time. I first got paid for it in 1996. My community of practice was my coworkers. Found node via async. Taught myself from example source, asked no questions, did not go near IRC.
 
 ---
 
@@ -72,13 +72,13 @@
 # [fit] Vulnerability
 # [fit] participation has risks
 
-^ This was it for me for a long time. I did some more modules.
+^ You've done this just by showing up here.
 
 ----
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
 
-^ Time passed. I published more modules. I got a node job.
+^ This was it for me for a long time. I did some more modules. I got a node job. I met a few people.s
 
 ---
 
@@ -86,7 +86,7 @@
 
 # [fit] I went to nodeconf 2013.
 
-^ This was my first nodeconf & tho I was on my 2nd node job by then, I knew nobody.
+^ Next risk I took was going to a conference. I'd gone to SIGCHI about 10 years before.
 
 ---
 
@@ -147,9 +147,9 @@
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-pot.jpg)
 
 # [fit] your mad science inspiration
-# [fit] is in this room
+# [fit] might be in this room
 
-^ Your inspiration might be nodebotanist or rockbot or even me.
+^ Your inspiration might be dominictarr or nodebotanist or even me. max & mafintosh blew my mind earlier today. I'm going to go home & write something using dat THIS WEEKEND.
 
 ---
 
@@ -157,6 +157,8 @@
 
 # [fit] you might be somebody's
 # [fit] mad science inspiration
+
+^ nodebotanist is in this room. she's an inspiration.
 
 ---
 
@@ -182,11 +184,13 @@
 # [fit] eventually I got a really
 # [fit] great job at npm
 
+^ The culmination of community participation for me: I'm now working on the thing that got me to widen my community of practice.
+
 ---
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-cats.jpg)
 
-^ Why did all this happen to me? Am I special? No.
+^ Why did all this happen to me? Am I special? No. I'm just a human being. But I took the first step: I made face-to-face contact with other humans.
 
 ---
 
@@ -195,7 +199,7 @@
 # [fit] humans are
 # [fit] social animals
 
-^ the value of connecting with other people
+^ the value of connecting with other people; face to face contact is how we feel we know each other. Rick thought I could talk because he had met me & seen me coding.
 
 ---
 
@@ -208,7 +212,19 @@
 
 ---
 
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-cats.jpg)
+
+# [fit] surprising things
+# [fit] come from new experiences
+
+^ We learn more when we break ourselves out of our ruts & when we talk to new people. We learn new & surprising things when we talk to new & surprising people. I did not know when I walked into this room this morning that I'd be so stoked about DAT.
+
+
+---
+
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-4.jpg)
+
+^ None of this dropped into my lap.
 
 ---
 

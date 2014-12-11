@@ -17,7 +17,7 @@
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-5.jpg)
 # [fit] Why am I here?
 
-^ I get something from you that I can't get anywhere else. I'm going to tell you why I'm here by telling you a story about me and the node community.
+^ I get something from you that I can't get anywhere else. I'm going to tell you why I'm here by telling you a story about me and the node community. First, who am I?
 
 ---
 
@@ -216,17 +216,24 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-cats.jpg)
 
+# [fit] serendipity
+
+^ I did not expect when I walked in here to leave so excited about dat. THAT IS WHAT I GET THAT I CAN'T GET ANYWHERE ELSE.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-cats.jpg)
+
 # [fit] surprising things
 # [fit] come from new experiences
 
-^ We learn more when we break ourselves out of our ruts & when we talk to new people. We learn new & surprising things when we talk to new & surprising people. I did not know when I walked into this room this morning that I'd be so stoked about DAT.
-
+^ We learn more when we break ourselves out of our ruts & when we talk to new people. We learn new & surprising things when we talk to new & surprising people.
 
 ---
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/cat-island-4.jpg)
 
-^ None of this dropped into my lap.
+^ I was not a passive consumer of this community experience.
 
 ---
 
@@ -240,7 +247,7 @@
 
 ![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
 
-^ The flip side. None of this comes for free.
+^ The flip side. None of this comes for free: participating in the community includes responsibility to the community.
 
 ----
 
@@ -249,6 +256,14 @@
 # [fit] Responsibility
 
 ^ Every one of the opportunities I took advantage of comes with responsibilities. Working at npm is the biggest responsibility of them all because I hold the heart of the community in my dev/ops hands.
+
+---
+
+![](/Users/ceej/Dropbox/projects/Talks/community-and-you/assets/tashirojima-island221.jpg)
+
+# [fit] Be kind & welcoming
+
+^ Your behavior here affects people. You can be the difference between a newcomer like me having an amazing nodeconf & a terrible go home & never come again nodeconf.
 
 ---
 
